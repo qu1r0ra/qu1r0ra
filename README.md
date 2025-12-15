@@ -1,6 +1,8 @@
 # qu1r0ra 🤗
 
-I like Herta from Honkai: Star Rail, Alice from Genshin Impact, and Gold Ship from Umamusume: Pretty Derby. TL;DR: **I love HAGS**.
+Hi, I'm CJ. I like Herta from Honkai: Star Rail, Alice from Genshin Impact, and Gold Ship from Umamusume: Pretty Derby.
+
+TL;DR: **I love HAGS**.
 
 Machine learning enthusiast who likes to lift and learn stuff in his free time.
 
@@ -38,4 +40,6 @@ Machine learning enthusiast who likes to lift and learn stuff in his free time.
     </a>
 </p>
 
-##
+## Besides hags, I like plastering things with Ryo
+
+![ryo-yamada](ryo-yamada.png)
