@@ -4,7 +4,7 @@ Hi, I'm CJ. I like Herta from Honkai: Star Rail, Alice from Genshin Impact, and 
 
 TL;DR: **I love HAGS**.
 
-Machine learning enthusiast who likes to lift and learn stuff in his free time.
+Machine learning enthusiast who likes to lift weights and learn stuff in his free time.
 
 <p align="center">
     <a href="https://skillicons.dev/">
