@@ -8,7 +8,7 @@ Machine learning enthusiast who likes to lift weights and learn stuff in his fre
 
 <p align="center">
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn"/>
+        <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,flask"/>
     </a>
 </p>
 
@@ -36,7 +36,7 @@ Machine learning enthusiast who likes to lift weights and learn stuff in his fre
         <br>
         <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb,vercel"/>
         <br>
-        <img src="https://skillicons.dev/icons?i=anaconda,cmake,django,flask,gitlab,mint,vim,pycharm"/>
+        <img src="https://skillicons.dev/icons?i=anaconda,cmake,gitlab,mint,vim,pycharm"/>
     </a>
 </p>
 
