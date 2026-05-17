@@ -36,6 +36,6 @@ CS enthusiast who likes to lift weights and learn stuff in his free time.
     </a>
 </p>
 
-## Besides hags, I like plastering things with Ryo
+## I also like plastering things with Ryo
 
 ![ryo-yamada](ryo-yamada.png)
