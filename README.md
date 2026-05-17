@@ -1,10 +1,6 @@
 # qu1r0ra 🤗
 
-Hi, I'm CJ. I like Herta from Honkai: Star Rail, Alice from Genshin Impact, and Gold Ship from Umamusume: Pretty Derby.
-
-TL;DR: **I love HAGS**.
-
-Machine learning enthusiast who likes to lift weights and learn stuff in his free time.
+CS enthusiast who likes to lift weights and learn stuff in his free time.
 
 <p align="center">
     <a href="https://skillicons.dev/">
