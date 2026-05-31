@@ -1,6 +1,6 @@
 # qu1r0ra 🤗
 
-CS enthusiast who likes to lift weights and learn stuff in his free time.
+CS enthusiast who likes lifting weights and learning things in his free time.
 
 <p align="center">
     <a href="https://skillicons.dev/">
