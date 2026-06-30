@@ -18,7 +18,7 @@ CS enthusiast who likes lifting weights and learning things in his free time.
     </a>
 </p>
 
-## I've dabbled with these and still occasionally do
+## I've dabbled with these
 
 <p align="center">
     <a href="https://skillicons.dev/">
