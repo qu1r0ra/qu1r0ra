@@ -1,41 +1,13 @@
-# qu1r0ra 🤗
+<div align="center">
+
+# Christian Joseph Bunyi
 
 CS enthusiast who likes lifting weights and learning things in his free time.
 
-<p align="center">
-    <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,flask"/>
-    </a>
-</p>
+[cjbunyi.dev](https://cjbunyi.dev)
 
-## Some workspace essentials
+<img src="ryo-yamada.png" alt="Ryo Yamada" width="400"/>
 
-<p align="center">
-    <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,windows,powershell"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,latex,md,obsidian"/>
-    </a>
-</p>
+<sub><em>I also like plastering things with Ryo</em></sub>
 
-## I've dabbled with these
-
-<p align="center">
-    <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=c,cs,cpp,go,java,kotlin,r,ruby,rust"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,svelte"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=npm,nodejs,express"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=jest,postman,vite,vitest"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb,vercel"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=anaconda,cmake,gitlab,mint,vim,pycharm"/>
-    </a>
-</p>
-
-## I also like plastering things with Ryo
-
-![ryo-yamada](ryo-yamada.png)
+</div>
