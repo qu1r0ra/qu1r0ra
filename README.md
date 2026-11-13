@@ -2,7 +2,7 @@
 
 # Hello, I'm CJ
 
-CS enthusiast who likes lifting weights and learning things in his free time.
+I'm a CS enthusiast who likes lifting weights and learning things in his free time.
 
 <img src="ryo-yamada.png" alt="Ryo Yamada" width="400"/>
 
